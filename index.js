@@ -16,7 +16,7 @@ class Circle{
   }
   
   set diameter(){
-    
+    return this.
   }
   
   set circumference(){
