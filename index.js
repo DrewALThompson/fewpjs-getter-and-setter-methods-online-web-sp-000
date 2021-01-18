@@ -4,6 +4,7 @@ class Circle{
   }
   
   get diameter(){
+    console.log(this.radius);
     return this.radius * 2;
   }
   
