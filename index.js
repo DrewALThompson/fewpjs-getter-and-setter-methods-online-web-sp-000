@@ -15,16 +15,16 @@ class Circle{
     
   }
   
-  set diameter(){
+  // set diameter(){
     
-  }
+  // }
   
-  set circumference(){
+  // set circumference(){
     
-  }
+  // }
   
-  set area(){
+  // set area(){
     
-  }
+  // }
   
 }
