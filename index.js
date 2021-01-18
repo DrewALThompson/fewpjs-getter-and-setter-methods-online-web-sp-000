@@ -4,11 +4,11 @@ class Circle{
   }
   
   get diameter(radius){
-    
+    return radius * 2;
   }
   
-  get circumference(){
-    
+  get circumference(radius){
+    return (Math.PI) * this.diameter;
   }
   
   get area(){
