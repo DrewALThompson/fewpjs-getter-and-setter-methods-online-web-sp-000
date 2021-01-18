@@ -24,6 +24,7 @@ class Circle{
   }
   
   set area(newArea){
+    console.log(newArea/Math.PI)
     this.radius = Math.sqrt(newArea/(Math.PI))
   }
   
