@@ -3,5 +3,13 @@ class Circle{
     this.radius = radius;
   }
   
+  get diameter(){
+    
+  }
+  
+  get circumference(){
+    
+  }
+  
   
 }
