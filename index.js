@@ -20,11 +20,10 @@ class Circle{
   }
   
   set circumference(newCircumference){
-    this.radius = newCircumference/(Math.PI);
+    this.radius = (newCircumference/(Math.PI))/2;
   }
   
   set area(newArea){
-    console.log(newArea/Math.PI)
     this.radius = Math.sqrt(newArea/(Math.PI))
   }
   
